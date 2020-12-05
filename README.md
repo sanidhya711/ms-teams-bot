@@ -16,9 +16,9 @@ Notes:
 • dont click anything on the chromium window that opens automatically(why would u want to use chromium...are you a peasant?)  
 • it will join the first class from the left if there are multiple classes at the same time  
 • you have to run "npm install puppeteer" only for the first time  
-• if you see any weird errors in the command line at any time terminate the task by clicking ctrl+c in the command line and join the classes manually(if you want to)  
-• you can do anything you want on ur pc after runnig the bot just dont mess with chromium 
-• dont minimize the chromium window till the bot has signed in to ur account otherwise it will crash
-• ur mic and camera will be muted/closed
+• if you see any weird errors in the command line at any time terminate the task by clicking ctrl+c in the command line and join the classes manually(if you want to)    
+• you can do anything you want on ur pc after runnig the bot just dont mess with chromium     
+• dont minimize the chromium window till the bot has signed in to ur account otherwise it will crash  
+• ur mic and camera will be muted/closed  
   
 [IF UR DUMB AND CANT UNDERSTAND WHATS WRITTEN HERE GO WATCH MY TUTORIAL ON YOUTUBE (only 30 secs long)](https://www.youtube.com/sumanboi)
